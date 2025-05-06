@@ -45,14 +45,14 @@ project-root/
 
 ---
 
-## 🎯 Tugas Praktikum
-- [x] Lengkapi bagian kode `# TODO:` pada `notebook.ipynb` dan `main.py`
-- [x] Konsistenkan preprocessing antara training dan inferensi
-- [x] Lakukan eksperimen kecil seperti augmentasi data dan tuning hyperparameter
+🎯 Tugas Praktikum
+ Selesaikan bagian kode # TODO: pada notebook.ipynb dan main.py
 
----
+ Pastikan konsistensi preprocessing antara saat pelatihan dan inferensi
 
-## 📋 Catatan Penting
-⚠️ Pastikan struktur folder dataset sesuai (`rock/`, `paper/`, `scissors/`)  
-⚠️ Jangan lupa lengkapi semua bagian yang ditandai `# TODO`  
-⚠️ Proses preprocessing saat inferensi harus identik dengan pipeline training  
+ Lakukan eksperimen kecil, seperti augmentasi data dan penyesuaian hyperparameter
+
+📋 Catatan Penting
+⚠️ Pastikan struktur folder dataset sesuai (rock/, paper/, scissors/)
+⚠️ Lengkapi semua bagian yang ditandai dengan # TODO
+⚠️ Pastikan proses preprocessing saat inferensi sama dengan pipeline pelatihan
